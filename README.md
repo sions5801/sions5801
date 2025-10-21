@@ -4,6 +4,7 @@
 <ol>
   <li>Python</li>
   <li>C#</li>
+  <li>C++</li>
   <li>Luau</li>
 </ol>
 
