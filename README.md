@@ -14,6 +14,13 @@
   <li>Django</li>
 </ol>
 
+## Current Project ##
+
+I am currently working on a compiler for my own custom programming language; SpaghettiScript.
+It was named after the term 'Spaghetti Code' but that sounds more like an IDE like VSCode, so I decided with script.
+
+Status:  Under Development
+
 ## Other Stuff ##
 
 I work on roblox games as a scripter sometimes for fun, however I have never actually finished a project.
