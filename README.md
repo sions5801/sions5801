@@ -1,18 +1,14 @@
 # Hi friends!!! #
 
 ## Languages Known ##
-<ol>
-  <li>Python</li>
-  <li>C#</li>
-  <li>C++</li>
-  <li>Luau</li>
-</ol>
+- Python
+- C#
+- C++
+- Luau
 
 ## Frameworks Known ##
-<ol>
-  <li>Blazor</li>
-  <li>Django</li>
-</ol>
+- Blazor
+- Django
 
 ## Current Project ##
 
